@@ -3,6 +3,8 @@ resources:
 - ../../base
 
 nameSuffix: -apac
+patches:
+  - path: routing.yaml
 images:
 
 - name: mysql
