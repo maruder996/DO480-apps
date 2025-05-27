@@ -3,3 +3,4 @@ resources:
 - deployment.yaml
 - service-frontend.yaml
 - service.yaml
+- routing.yaml
